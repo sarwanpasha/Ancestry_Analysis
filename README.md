@@ -46,7 +46,7 @@ library(readxl)
 - `Ancester_3_ids.txt` → IDs for specific ancestry-based filtering.  
 - `new_sample_names.txt` → List of new sample IDs.  
 - `Population_phenotype_data.xlsx` → Population phenotype dataset with `SUBJID` and `WHICAPID`.
-- 
+
 ### **2. Running the Script**  
 To execute the R script, run:  
 ```r
